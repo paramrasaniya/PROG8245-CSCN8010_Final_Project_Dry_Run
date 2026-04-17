@@ -1,0 +1,161 @@
+{
+  "topics": [
+    {
+      "topic": "regression",
+      "keywords": [
+        "regression",
+        "linear regression",
+        "predict continuous",
+        "continuous value"
+      ],
+      "answers": {
+        "en": "Regression is a machine learning method used to predict a continuous value, such as house price, sales, or temperature.",
+        "es": "La regresión es un método de aprendizaje automático que se usa para predecir un valor continuo, como el precio de una casa, las ventas o la temperatura.",
+        "fr": "La régression est une méthode d'apprentissage automatique utilisée pour prédire une valeur continue, comme le prix d'une maison, les ventes ou la température.",
+        "hi": "Regression ek machine learning method hai jo continuous value predict karne ke liye use hota hai, jaise house price, sales ya temperature.",
+        "gu": "Regression એ machine learning method છે જે continuous value predict કરવા માટે વપરાય છે, જેમ કે house price, sales અથવા temperature."
+      }
+    },
+    {
+      "topic": "classification",
+      "keywords": [
+        "classification",
+        "classify",
+        "spam",
+        "dog or cat",
+        "category"
+      ],
+      "answers": {
+        "en": "Classification is used when the output belongs to a category, such as spam or not spam, dog or cat, or pass or fail.",
+        "es": "La clasificación se usa cuando la salida pertenece a una categoría, como spam o no spam, perro o gato, o aprobado o reprobado.",
+        "fr": "La classification est utilisée lorsque la sortie appartient à une catégorie, comme spam ou non spam, chien ou chat, ou réussite ou échec.",
+        "hi": "Classification tab use hota hai jab output kisi category me aata hai, jaise spam ya not spam, dog ya cat, ya pass ya fail.",
+        "gu": "Classification ત્યારે વપરાય છે જ્યારે output કોઈ category માં આવે, જેમ કે spam અથવા not spam, dog અથવા cat, અથવા pass અથવા fail."
+      }
+    },
+    {
+      "topic": "overfitting",
+      "keywords": [
+        "overfitting",
+        "overfit",
+        "memorize training data"
+      ],
+      "answers": {
+        "en": "Overfitting happens when a model learns the training data too closely and then performs poorly on new unseen data.",
+        "es": "El sobreajuste ocurre cuando un modelo aprende demasiado bien los datos de entrenamiento y luego funciona mal con datos nuevos.",
+        "fr": "Le surapprentissage se produit lorsqu'un modèle apprend trop précisément les données d'entraînement et fonctionne ensuite mal sur de nouvelles données.",
+        "hi": "Overfitting tab hota hai jab model training data ko bahut zyada yaad kar leta hai aur naye unseen data par achha perform nahi karta.",
+        "gu": "Overfitting ત્યારે થાય છે જ્યારે model training data ને બહુ જ નજીકથી શીખી લે છે અને પછી નવા unseen data પર સારું કામ કરતું નથી."
+      }
+    },
+    {
+      "topic": "normalization",
+      "keywords": [
+        "normalization",
+        "scale data",
+        "min max",
+        "z score"
+      ],
+      "answers": {
+        "en": "Normalization means scaling data to a common range so that features with bigger values do not dominate the model.",
+        "es": "La normalización significa escalar los datos a un rango común para que las variables con valores grandes no dominen el modelo.",
+        "fr": "La normalisation consiste à mettre les données à une échelle commune afin que les variables avec de grandes valeurs ne dominent pas le modèle.",
+        "hi": "Normalization ka matlab data ko ek common range me scale karna hota hai taaki bade values wale features model ko dominate na karein.",
+        "gu": "Normalization નો અર્થ data ને common range માં scale કરવો જેથી મોટા values વાળા features model ને dominate ના કરે."
+      }
+    },
+    {
+      "topic": "confusion matrix",
+      "keywords": [
+        "confusion matrix",
+        "true positive",
+        "false positive",
+        "false negative",
+        "true negative"
+      ],
+      "answers": {
+        "en": "A confusion matrix shows how many predictions were correct or incorrect for each class in a classification problem.",
+        "es": "La matriz de confusión muestra cuántas predicciones fueron correctas o incorrectas para cada clase en un problema de clasificación.",
+        "fr": "La matrice de confusion montre combien de prédictions étaient correctes ou incorrectes pour chaque classe dans un problème de classification.",
+        "hi": "Confusion matrix dikhata hai ki classification problem me har class ke liye kitni predictions sahi ya galat thi.",
+        "gu": "Confusion matrix બતાવે છે કે classification problem માં દરેક class માટે કેટલી predictions સાચી કે ખોટી હતી."
+      }
+    },
+    {
+      "topic": "precision and recall",
+      "keywords": [
+        "precision and recall",
+        "precision",
+        "recall"
+      ],
+      "answers": {
+        "en": "Precision tells us how many predicted positives were actually correct, while recall tells us how many actual positives the model found.",
+        "es": "La precisión indica cuántos positivos predichos fueron correctos, mientras que el recall indica cuántos positivos reales encontró el modelo.",
+        "fr": "La précision indique combien de positifs prédits étaient corrects, tandis que le rappel indique combien de positifs réels le modèle a trouvés.",
+        "hi": "Precision batata hai ki predicted positives me se kitne sahi the, aur recall batata hai ki actual positives me se model ne kitne dhoonde.",
+        "gu": "Precision બતાવે છે કે predicted positives માંથી કેટલા સાચા હતા, અને recall બતાવે છે કે actual positives માંથી model એ કેટલા શોધ્યા."
+      }
+    },
+    {
+      "topic": "decision tree",
+      "keywords": [
+        "decision tree",
+        "tree model",
+        "split rules"
+      ],
+      "answers": {
+        "en": "A decision tree is a model that makes predictions by splitting data step by step using rules.",
+        "es": "Un árbol de decisión es un modelo que hace predicciones dividiendo los datos paso a paso usando reglas.",
+        "fr": "Un arbre de décision est un modèle qui fait des prédictions en divisant les données étape par étape à l'aide de règles.",
+        "hi": "Decision tree ek model hai jo rules ke basis par step by step data split karke prediction karta hai.",
+        "gu": "Decision tree એ એવો model છે જે rules ના આધાર પર step by step data split કરીને prediction કરે છે."
+      }
+    },
+    {
+      "topic": "clustering",
+      "keywords": [
+        "clustering",
+        "group similar data",
+        "k means",
+        "cluster"
+      ],
+      "answers": {
+        "en": "Clustering groups similar data points together without using labeled target values.",
+        "es": "El clustering agrupa puntos de datos similares sin usar valores objetivo etiquetados.",
+        "fr": "Le clustering regroupe des points de données similaires sans utiliser de valeurs cibles étiquetées.",
+        "hi": "Clustering similar data points ko bina labeled target ke group karta hai.",
+        "gu": "Clustering similar data points ને labeled target વગર group કરે છે."
+      }
+    },
+    {
+      "topic": "neural network",
+      "keywords": [
+        "neural network",
+        "deep learning",
+        "layered model"
+      ],
+      "answers": {
+        "en": "A neural network is a layered model inspired by the brain that learns patterns from data.",
+        "es": "Una red neuronal es un modelo en capas inspirado en el cerebro que aprende patrones a partir de los datos.",
+        "fr": "Un réseau de neurones est un modèle en couches inspiré du cerveau qui apprend des motifs à partir des données.",
+        "hi": "Neural network ek layered model hai jo brain se inspired hai aur data se patterns seekhta hai.",
+        "gu": "Neural network એ layered model છે જે brain થી inspired છે અને data માંથી patterns શીખે છે."
+      }
+    },
+    {
+      "topic": "gradient descent",
+      "keywords": [
+        "gradient descent",
+        "optimization",
+        "reduce error"
+      ],
+      "answers": {
+        "en": "Gradient descent is an optimization method that helps the model reduce error step by step.",
+        "es": "El descenso de gradiente es un método de optimización que ayuda al modelo a reducir el error paso a paso.",
+        "fr": "La descente de gradient est une méthode d'optimisation qui aide le modèle à réduire l'erreur étape par étape.",
+        "hi": "Gradient descent ek optimization method hai jo model ko error ko step by step kam karne me madad karta hai.",
+        "gu": "Gradient descent એ optimization method છે જે model ને error ને step by step ઓછો કરવામાં મદદ કરે છે."
+      }
+    }
+  ]
+}

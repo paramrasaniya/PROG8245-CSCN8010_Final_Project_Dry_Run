@@ -1,0 +1,4 @@
+gradio
+SpeechRecognition
+gTTS
+notebook

@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated audio files
+*.mp3
+*.wav
+
+# Temporary files
+*.log
+*.tmp
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Environment files
+.env
